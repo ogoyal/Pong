@@ -1,0 +1,30 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pong Game</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        canvas {
+            background: black;
+            display: block;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Pong Game</h1>
+        <div class="text-center my-3">
+            <span class="mr-5">User: <span id="userScore">0</span></span>
+            <span>Computer: <span id="compScore">0</span></span>
+        </div>
+        <canvas id="pong" width="800" height="400"></canvas>
+    </div>
+    <!-- Link to your JavaScript file -->
+    <script src="{% static 'js/script.js' %}"></script>
+</body>
+</html>
