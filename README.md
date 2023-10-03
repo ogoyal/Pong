@@ -2,7 +2,7 @@
 
 A classic Pong game implemented using Django, HTML, CSS, and JavaScript.
 
-<img width="1470" alt="Screenshot 2023-10-02 at 11 27 00 PM" src="https://github.com/ogoyal/Pong/assets/6656739/e8eedbe1-1d5d-47b9-b8cc-0c652044730c">
+<img width="991" alt="Screenshot 2023-10-03 at 12 14 00 AM" src="https://github.com/ogoyal/Pong/assets/6656739/09c4696a-3d36-42c5-b01a-1096e7ff4c7b">
 
 ## Description
 
