@@ -2,8 +2,7 @@
 
 A classic Pong game implemented using HTML, CSS, and JavaScript.
 
-![Pong Game Screenshot](./screenshot.png) 
-<!-- You can replace this with an actual screenshot of your game -->
+<img width="1470" alt="Screenshot 2023-10-02 at 11 27 00 PM" src="https://github.com/ogoyal/Pong/assets/6656739/e8eedbe1-1d5d-47b9-b8cc-0c652044730c">
 
 ## Description
 
@@ -19,10 +18,12 @@ Pong is one of the earliest arcade video games and a classic of the video game i
 ## Installation
 
 1. Clone the repository:
+
 $ git clone https://github.com/ogoyal/Pong.git
 
 
 2. Navigate to the project directory:
+
 $ cd Pong
 
 
