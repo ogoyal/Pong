@@ -1,6 +1,6 @@
 # Pong Game
 
-A classic Pong game implemented using HTML, CSS, and JavaScript.
+A classic Pong game implemented using Django, HTML, CSS, and JavaScript.
 
 <img width="1470" alt="Screenshot 2023-10-02 at 11 27 00 PM" src="https://github.com/ogoyal/Pong/assets/6656739/e8eedbe1-1d5d-47b9-b8cc-0c652044730c">
 
